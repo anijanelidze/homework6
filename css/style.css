@@ -1,0 +1,264 @@
+.navigation {
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	color: #181C28;
+	margin-top: 50px;
+	font-size: 16px;
+}
+
+.nav-1 {
+	color: black;
+	float: left;
+	margin-right: 45px;
+	
+}
+
+.nav-2 {
+	font-weight: bold;
+	color: black;
+	float: left;
+	margin-right: 45px;
+	
+}
+
+
+.logo {
+	float: left;
+	margin-left: 140px;
+	margin-right: 125px;
+	margin-top: 4px;
+}
+
+.clear {
+	clear: both;
+}
+
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%
+}
+
+
+.ul {
+	content: ' ';
+	clear: both;
+}
+
+.fash {
+	background-image: url(../images/fashion.jpg);
+	height: 300px;
+	width: 1500px;
+	background-repeat: no-repeat;
+}
+
+
+.t1 {
+	position: absolute;
+	margin-top: 75px;
+	margin-left: 500px;
+	color: white;
+	font-size: 22px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.t2 {
+	position: absolute;
+	margin-top: 130px;
+	margin-left: 550px;
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+}
+
+body {
+	padding-top: 100px;
+}
+.part1 {
+	width: 1600px;
+	margin-top: 50px;
+	margin:0 auto;
+	margin-top: 150px;
+	margin left: 138px;
+
+}
+.popular{
+	color: #FF7A00;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 170px;
+
+}
+
+
+.block1 {
+	float: left;
+	width: 640px;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-left: 130px; 
+
+}
+
+.block2 {
+	float: left;
+	width: 640px;
+	margin-top: 50px;
+
+}
+
+.clear {
+	clear: both;
+}
+
+.h3 {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.wonderful {
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.more {
+	float: right;
+	color: #FF7A00;
+	font-size: 14px;
+	float: left;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	  }
+
+
+  
+.more::after {
+	content: ' ';
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+	 
+	.part2{
+		width:1600px;
+ 	margin: 0 auto;
+ 	margin-top: 60px;
+	}
+
+	.block3 {
+	float: left;
+	width: 640px;
+	margin-right: 50px;
+	margin-left: 130px;
+	
+
+
+
+}
+
+.block4 {
+	float: left;
+	width: 640px;
+	
+}
+
+.loadlogo {
+	height:70px; 
+	width:190px;
+	background-color:#FF7A00;
+	
+    position: relative;
+    margin:0 auto;
+    margin-top: 50px;
+
+}
+
+.loadtext {
+
+	position: absolute;
+	color: #FFFFFF;
+	font-weight: bold;
+	top:50%;
+	right: 25%;
+}
+.blackdiv{
+	width: 1600px;
+	height: 270px;
+	background-color:#181C28;
+	margin-top: 800px;
+	margin-bottom: 100px;
+}
+.company {
+	float: left;
+	width: 160px;
+	height: 220px;
+	margin-left: 50px;
+}
+
+.service {
+	float: left;
+	width: 160px;
+	height: 220px;
+	margin-left: 150px;
+
+}
+
+.orders {
+    float: left;
+    width: 260px;
+    height: 220px;
+    margin-left: 150px;
+}
+
+
+.payment {
+	float: left;
+	width: 260px;
+	height: 220px;
+	margin-left: 150px;
+}
+
+
+
+
+.footer {
+	width: 1600px;
+	margin:0 auto;
+}
+
+.footer3 {
+	color: #282828;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.footer-ul {
+	color:#7B7B7B;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+.cr {
+	float: right;
+	margin-top: 20px;
+	color:#A4A4A4;
+
+}
+.li-pay {
+	display: inline-block;
+}
+
+.payment-ul {
+	content: ' ';
+	clear: both;
+}
+
+
